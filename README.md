@@ -25,10 +25,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- 
-- 
-- 
-- 
+- Have your azure subcription
+- make your resource group
+- Azure Windows VM1 and Linux VM2 
 
 <h2>Actions and Observations</h2>
 
@@ -36,7 +35,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src=" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First step is going to  https://whatismyipaddress.com/ and taking note of my non vpn ip address
+Starting from azure hub
 
 
 </p>
