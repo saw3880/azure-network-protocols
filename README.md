@@ -25,16 +25,15 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- go to https://whatismyipaddress.com/ and note my non vpn IP
-- Create Virtual Machine in Azure
-- Sign up for ProtonVPN and test the VPN connection
-- within my VM, download the Proton VPN client
-- Browse to https://whatismyipaddress.com/ and take note of new IP
+- 
+- 
+- 
+- 
 
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/IIMgT8u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 First step is going to  https://whatismyipaddress.com/ and taking note of my non vpn ip address
