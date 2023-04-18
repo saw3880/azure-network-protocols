@@ -19,11 +19,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
 
-<h2>High-Level Steps</h2>
+<h2>Prerequisites </h2>
 
-- Have your azure subcription
-- Make your resource group
-- Azure Windows VM1 and Linux VM2 
+- Have your azure subscription
+- Have a resource group
+- Made a Azure Windows VM1 and Linux VM2 
 
 <h2>Actions and Observations</h2>
 
